@@ -69,7 +69,34 @@ This project is built using HTML, CSS, and JavaScript. The website is divided in
 
 Including screenshots or images of my project here to give a visual overview.
 
-- Screenshot 1: ![Description](/path/to/screenshot.png)
-- Screenshot 2: ![Description](/path/to/screenshot.png)
-- ...
+![Screenshot](https://drive.google.com/uc?id=1uZaxQ7PPS4RYbRqxBBbD695hOAOpc1_v)
 
+![Screenshot](https://drive.google.com/uc?id=1XZYqbT-A1cdgBwxE8fbLViT6b2bpB-NI)
+
+![Screenshot](https://drive.google.com/uc?id=1W9q5nzmpvbV43Wjtm5rVTIfC79CUGdwR)
+
+![Screenshot](https://drive.google.com/uc?id=1vrAxM00xcYJFfwijGkdG0CDc8aWZkamX)
+
+![Screenshot](https://drive.google.com/uc?id=1W-tMi2o9iPZ1ux0gWiCx05AbdaFwasDD)
+
+![Screenshot](https://drive.google.com/uc?id=19vpuZkR_OV6TmOE3-uKTjH7KTAb8l3El)
+
+![Screenshot](https://drive.google.com/uc?id=1Zs9MAyWpKSJIPk2l5uXuSzzK_Jjp136z)
+
+![Screenshot](https://drive.google.com/uc?id=1lxebreIaeq3md-KwYj3RdMXC9ayH29La)
+
+![Screenshot](https://drive.google.com/uc?id=1qL4S2hniKCXcFvld6izxAgWlDITSjfRk)
+
+![Screenshot](https://drive.google.com/uc?id=1uYgxXzW5IATHrHXbI2FgE_1xxaLLRisY)
+
+![Screenshot](https://drive.google.com/uc?id=1EAUNPR1J-wtyYLbsU5b7GvjG1Q8D7up1)
+
+![Screenshot](https://drive.google.com/uc?id=1rnto6B9WK24fW0y2I5WeSyyS8Pwx1y3R)
+
+![Screenshot](https://drive.google.com/uc?id=1kV1541N_V0QeG-VAki8_zZH08MGYRhIC)
+
+![Screenshot](https://drive.google.com/uc?id=1CllXKSG2NZA_AvAGXq0nK-KFss-kIRjU)
+
+![Screenshot](https://drive.google.com/uc?id=1o3Heh8q6hDTnCZLhGZMEzyOx0rp9zHCj)
+
+![Screenshot](https://drive.google.com/uc?id=1VpzecVJ_zhHXW5989rrSRgeN-7JX6FlS)
