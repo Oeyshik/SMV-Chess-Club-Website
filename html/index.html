@@ -19,8 +19,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Rubik+Moonrocks&display=swap" rel="stylesheet">
 
-    <!-- SWIPER JS -->
+    <!-- Include Swiper CSS -->
     <link rel="stylesheet" href="https://unpkg.com/swiper@8/swiper-bundle.min.css" />
+
+    <!-- Include Swiper JavaScript -->
+    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
 
     <link rel="stylesheet" href="./css/style.css">
 
@@ -60,7 +63,7 @@
 
             <div class="header__right">
                 <div class="header__right__image">
-                    <img src="Images/logo14.png">
+                    <img src="https://drive.google.com/uc?id=1MULq14OPEtJi-05hUxU2WQdpTTzjILp2">
                 </div>
             </div>
         </div>
@@ -126,7 +129,7 @@
         <div class="container events__container">
             <article class="event">
                 <div class="event__image">
-                    <img src="/Images/event2.jpg">
+                    <img src="https://drive.google.com/uc?id=1m2LcpNipUvFsUrK3e5hJDagK-wqBsqqN">
                 </div>
                 <div class="event__info">
                     <h4>CMSA(S) ACE</h4>
@@ -139,7 +142,7 @@
 
             <article class="event">
                 <div class="event__image">
-                    <img src="/Images/event4.jpg">
+                    <img src="https://drive.google.com/uc?id=1dnz_qgWUru9mALmdGvNDNH62yuZ3V0Zl">
                 </div>
                 <div class="event__info">
                     <h4>CMSA(T) ACE</h4>
@@ -152,7 +155,7 @@
 
             <article class="event">
                 <div class="event__image">
-                    <img src="/Images/event5.jpg">
+                    <img src="https://drive.google.com/uc?id=1ochQKb7i3eauSFo4jD4e7M_TgXfpegil">
                 </div>
                 <div class="event__info">
                     <h4>SMV ACE</h4>
@@ -234,6 +237,9 @@
     
     <section class="container testimonials__container swiper mySwiper">
         <h2>Testimonials</h2>
+         <!-- Navigation buttons -->
+        <div class="swiper-button-prev"></div>
+        <div class="swiper-button-next"></div>
         <div class="swiper-wrapper">
             <article class="testimonial swiper-slide">
                 <div class="avatar">
@@ -411,13 +417,16 @@
     </footer>
     <!-- =================================== END OF FOOTER =================================== -->
     
-    <script src="https://unpkg.com/swiper@8/swiper-bundle.min.js"></script>
     <script src="/main.js"></script>
     
     <script>
         var swiper = new Swiper(".mySwiper", {
         slidesPerView: 1,
         spaceBetween: 30,
+        navigation: {
+            nextEl: ".swiper-button-next", // Selector for the next button
+            prevEl: ".swiper-button-prev", // Selector for the previous button
+        },
         pagination: {
           el: ".swiper-pagination",
           clickable: true,

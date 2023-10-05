@@ -132,7 +132,7 @@ nav span {
 .window-scroll {
     background: var(--color-red);
     box-shadow: 0 1rem 2rem rgba(0,0,0,0.2);
-    opacity: .8;
+    opacity: .5;
 }
 
 
@@ -319,13 +319,12 @@ header img {
 
 .faq p {
     margin-top: 0.8rem;
-    display: none;
+    display: none; /* Hide answers by default */
 }
 
-.faq.open p{
-    display: block;
+.faq.open p {
+    display: block; /* Show answers when .open is present */
 }
-
 /* ============================== TESTIMONIALS ============================== */
 .testimonials__container {
     margin-top: 7rem;
@@ -531,7 +530,14 @@ footer span2 {
         background: var(--color-success);
         color: var(--color-white)
     }
-}
+
+    .window-scroll {
+        background: var(--color-red);
+        box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+        opacity: 0.8; /* Set the desired opacity value */
+        transition: opacity 0.3s; /* Add a transition for smooth opacity change */
+    }
+
 
 /* ============================== HEADER ============================== */
 header {
